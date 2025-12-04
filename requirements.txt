@@ -1,0 +1,22 @@
+# Data Processing & Math
+pandas>=2.1.4
+numpy>=1.26.0
+scipy>=1.11.0
+
+# Data Collection & Formats
+requests
+cdsapi
+pygrib          
+openap          
+
+# Machine Learning
+scikit-learn
+joblib         
+
+# Visualization & Dashboard
+matplotlib
+seaborn
+ipywidgets      
+
+# Utilities
+tqdm            
